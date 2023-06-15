@@ -18,7 +18,14 @@
 ## CODE
 
 
-## OUTPUT
+## OUTPUT 
+ ![111](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/f0347f5f-56cb-441a-a86d-8543952d9885)
+![222](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/a3beb764-fd80-48f7-a414-f927e43267b3)
+![333](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/a81dd40d-9b58-4eeb-a2e6-47569a8685b9)
+
+
+ ![444](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/de46cd79-effa-4173-a43e-951a34e5b95f)
+
 
 
 ## RESULT
