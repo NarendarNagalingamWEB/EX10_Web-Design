@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 GREEN PARROT AGENCIES
 <!-- wp:paragraph -->
 <p>THE VIVASAYI BRAND</p>
@@ -132,15 +133,16 @@ GREEN PARROT AGENCIES
 <!-- wp:paragraph -->
 <p>THE VIVASAYI BRAND</p>
 <!-- /wp:paragraph -->
-
+```
 ## OUTPUT 
- ![111](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/f0347f5f-56cb-441a-a86d-8543952d9885)
-![222](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/a3beb764-fd80-48f7-a414-f927e43267b3)
-![333](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/a81dd40d-9b58-4eeb-a2e6-47569a8685b9)
 
-
- ![444](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/de46cd79-effa-4173-a43e-951a34e5b95f)
-
+![2023-06-18 (5)](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/7cabb6b6-9147-490f-8c4c-edce605a345d)
+![2023-06-18 (6)](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/9f9707d6-4a16-43fb-a965-0c0700655355)
+![2023-06-18 (7)](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/b0422ca0-e50d-4cc7-b39a-bc6ecb0d37c0)
+![2023-06-18 (8)](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/f4e4c053-f302-4764-bdb8-b147a6cf9e77)
+![2023-06-18 (9)](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/ec813029-8949-4cee-9a98-82b0252b29a5)
+![2023-06-18 (10)](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/a9983de1-b74c-41e8-83b9-1160eaad301a)
+![2023-06-18 (11)](https://github.com/NarendarNagalingamWEB/EX10_Web-Design/assets/128288529/79b54053-4bfe-446f-962a-60fb40681765)
 
 
 ## RESULT
